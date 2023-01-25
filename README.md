@@ -1,6 +1,4 @@
 # EPG Land  - *The Daily TVGuide (EPG) offers a comprehensive listing of programming for channels in the United States, United Kingdom, and a majority of Arabic-speaking countries, allowing viewers to easily plan their television watching schedule.* :-
-![Channel count](https://img.shields.io/static/v1?style=for-the-badge&label=channel%20count&message=358&color=9cf&cacheSeconds=3600)
-![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=97.76%&color=yellow&cacheSeconds=3600)
 
 |Logo|Channel|
 |:----|:---:|
